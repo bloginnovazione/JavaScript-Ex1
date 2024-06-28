@@ -10,3 +10,6 @@ with javascript trigger some events:
 – onclick : set bold for the text and yellow for the background
 – onmouseover : set underlined for the text and orange for the background
 – onmouseout : set 16px font for the text and light blue for the background
+
+
+Ckeck page https://bloginnovazione.it/en/esercizi-javascript/36975/ for more Exercises
